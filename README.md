@@ -1,4 +1,4 @@
-# Drought Intelligence Dashboard
+# Drought Intelligence 
 
 ## A Research-Driven Early Warning Project for Swat Valley
 
